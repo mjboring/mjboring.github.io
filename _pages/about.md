@@ -8,8 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My page is currently under construction.
-
-Website Template info:
-[academicpages template](https://github.com/academicpages/academicpages.github.io)
-Forked from [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose
+My page is currently under construction. In the mean time check out my old page: http://www.pitt.edu/~mjb200/.
