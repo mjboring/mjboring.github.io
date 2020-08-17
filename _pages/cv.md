@@ -38,7 +38,7 @@ Service and Awards
 =====
 * [Vision Sciences Society, Student Postdoc Advisory Committee](https://www.visionsciences.org/2020-sparc/), 2020-Present
 * Center for the Neural Basis of Cognition, Retreat Organizing Committee, 2019
-* [BIOMAG]](https://www.biomag2018.org/) Student Travel Award, 2018
+* [BIOMAG](https://www.biomag2018.org/) Student Travel Award, 2018
 * T32 NS007433-20 Training Grant in Basic Neuroscience, 2017
 * James E. Bradler Jr. Award for Excellence in Undergraduate Reserach, 2016
 * [Undergraduate Fellow in the Program of Neural Computation](http://www.cnbc.cmu.edu/training/undergraduate/undergraduate-research-fellowships-in-computational-neuroscience/), 2015-2016
