@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+<img align="right" src="https://photos.app.goo.gl/RmsZmJxwwka2A1j86" width="200">
 Education
 ======
 * Ph.D in Neurosciecne, University of Pittsburgh, 2016-Present
