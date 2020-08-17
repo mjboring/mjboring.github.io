@@ -2,7 +2,7 @@
 title: "Interdigitation of words and faces in the ventral visual stream."
 collection: talks
 type: "Talk"
-permalink: /talks/2018-Words-and-Faces.md
+permalink: /talks/2018-Words-and-Faces.html
 venue: "Vision Sciences Society"
 date: 2018-05-20
 location: "St. Pete Beach, Florida"
