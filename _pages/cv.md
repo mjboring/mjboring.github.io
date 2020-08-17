@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D in Neurosciecne, University of Pittsburgh, 2016-Present
- * PhD Advisor: [Avniel Ghuman](https://www.neurosurgery.pitt.edu/people/avniel-singh-ghuman)
- * Center for the Neural Basis of Cognition
+   * PhD Advisor: [Avniel Ghuman](https://www.neurosurgery.pitt.edu/people/avniel-singh-ghuman)
+   * Center for the Neural Basis of Cognition
 * B.S. in Neuroscience, University of Pittsburgh 2012-2016
- * Summa Cum Laude, Departmental Honors
+   * Summa Cum Laude, Departmental Honors
 
 Research experience
 ======
