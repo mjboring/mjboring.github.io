@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<img align="right" src="https://photos.app.goo.gl/RmsZmJxwwka2A1j86" width="200">
+<img align="right" src="https://lh3.googleusercontent.com/rONxWXPXVk2DZWl-JkVYcSN4Tq9sj9Qd2tQsRamcwmJl9lm-DFmdkh6IpBy7Ei5OqXAz_WZsoG2EbBVVKTEr9f09bDGfx_qke3mIqmCJ6j7XenLqdS-wcnC3u87VD78CT6jLLQcB1HE50k6d4gnUsFu4Muh9XE8DS5TWLfLAuHrr69zvkGYbA_Y3OkEj5VougdTCUb8LEvPp5POLyvymHP1NWdAWMwNrz8tx0t2j5CpkDY84nQc8ts8kxIVKNBhCRUf8d6taPylyG013v9ypxrraa9ATB739uJILxsM-U1ZzlzHtWHBybGLlxsF5puf4tNrfGsVTG-75fJM3P034DnIWv7bCiSsHaPNfUdd3stVWoqtHzpjWJdXWylm6HjHS19hTgNsLp3ZVHRgP2ixDpCfDXc1oY-sgAFJzeHIEnaCL06529mG4rKEz-FQQE2OaDccV8YaX59YgISMDiZCTLmBVOy0Lxh4r6t2KuiLwA7Arw2yGxi8GMEkpvc9z2bWzaATFvkSY80gyUPXRrM4lNKxSxGaYZL8zWiegWNEk-4QsGZc7DaJFaDWcSJkIixgrbVm8ihfrhJXECukZTPO1VieegVOfdOs1Eyd3fCX9Mvvz2Ns_lDI31zZVrOajtQ47KJ4lX2mTLpvYtp6sJkb2IPl5u6qeBFhCsfR-dwOUha4W9ImgdKrGsvablL3S=s888-no?authuser=0" width="200">
 Education
 ======
 * Ph.D in Neurosciecne, University of Pittsburgh, 2016-Present
