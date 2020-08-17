@@ -41,6 +41,10 @@ Service and Awards
 
 Skills
 ======
+* Programming: MATLAB, Python, R
+* Data analysis: EEG, MEG, eye tracking, pupillometry
+* Machine learning: Neural networks, Reinforcement learning, linear classification, regression
+* Grant Writing
 
 
 Publications
