@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew J. Boring"
+title                    : "Matth Boring's Homepage"
 title_separator          : "-"
-name                     : &name "Matt Boring"
+name                     : &name "Matthew Boring"
 description              : &description "personal description"
 url                      : https://mjboring.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mjboring"
+  github           : # "mjboring"
   google_plus      :
   keybase          :
   instagram        :
