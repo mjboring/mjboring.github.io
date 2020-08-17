@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matth Boring's Homepage"
+title                    : "Matt Boring's Homepage"
 title_separator          : "-"
 name                     : &name "Matthew Boring"
 description              : &description "personal description"
