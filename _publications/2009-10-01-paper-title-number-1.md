@@ -6,5 +6,5 @@ excerpt: 'In this paper we investigated whether electroencephalography systems [
 date: 2017-11-24
 venue: 'Nature Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-017-16377-3'
-citation: '1. Robinson AK, Venkatesh P, Boring MJ, Tarr MJ, Grover P, Behrmann M. Very high density EEG elucidates spatiotemporal aspects of early visual processing. Sci Rep. 2017;7: 1–11. doi:10.1038/s41598-017-16377-3'
+citation: 'Robinson AK, Venkatesh P, Boring MJ, Tarr MJ, Grover P, Behrmann M. Very high density EEG elucidates spatiotemporal aspects of early visual processing. Sci Rep. 2017;7: 1–11. doi:10.1038/s41598-017-16377-3'
 ---
