@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-My page is currently under construction. In the mean time check out [my old page](http://www.pitt.edu/~mjb200/).
-
 We often take for granted how effortlessly we can recognize the objects in our surroundings. <img align="right" src="https://agnosia-ot.weebly.com/uploads/1/9/3/4/19340935/9666842.jpg?222"> Very complex patterns of light that enter our retinas are quickly translated into meaningful concepts which we use to guide most of our behaviors. For example, we can easily glance at the red, shiny sphere on our kitchen counter and bite into it, confident that it is an apple. However, there are people with completely normal vision that have a much more difficult time recognizing the objects around them. These people, which have usually experienced brain damage, suffer from agnosia, which prevents them from recognizing objects through sight.
 
 
