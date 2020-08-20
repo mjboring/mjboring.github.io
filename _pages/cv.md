@@ -40,7 +40,7 @@ Service and Awards
 * Center for the Neural Basis of Cognition, Retreat Organizing Committee, 2019
 * [BIOMAG](https://www.biomag2018.org/) Student Travel Award, 2018
 * T32 NS007433-20 Training Grant in Basic Neuroscience, 2017
-* James E. Bradler Jr. Award for Excellence in Undergraduate Reserach, 2016
+* James E. Bradler Jr. Award for Excellence in Undergraduate Research, 2016
 * [Undergraduate Fellow in the Program of Neural Computation](http://www.cnbc.cmu.edu/training/undergraduate/undergraduate-research-fellowships-in-computational-neuroscience/), 2015-2016
 * Martha and Edna R. Higbee Scholar, 2013
 * Eagle Scout, 2011
