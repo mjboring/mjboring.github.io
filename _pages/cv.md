@@ -28,7 +28,7 @@ Research experience
 * Graduate Student Researcher at the University of Pittsburgh, 2016-Present
    * Studying human object recognition using electrophysiology, eye-tracking, and machine learning: [Read](https://mjboring.github.io/publication/2019-MEG-DBS)
 * Intern at Facebook Reality Labs, June-November 2019
-   * Used electroencephalography [EEG] and cognitive neuroscience to develop better AR/VR interactions
+   * Used electroencephalography [EEG] and cognitive neuroscience to develop better AR/VR interactions: [Read](https://mjboring.github.io/publication/2020-CL)
 * Research Assistant at Carnegie Mellon University, 2014-2016
    * Developed better EEG systems using information theoretical approaches and basic neuroscience: [Read](https://mjboring.github.io/publication/2017-HD-EEG)
 * Research Assistant at Western Psychatric Institute and Clinic, 2013-2014
