@@ -16,7 +16,7 @@ Education
 
 * Ph.D in Neuroscience, University of Pittsburgh, 2016-Present
    * PhD Advisor: [Avniel Ghuman](https://www.neurosurgery.pitt.edu/people/avniel-singh-ghuman)
-   * [Center for the Neuroscience](https://www.cnup.pitt.edu/html/CNUP_Homepage.html)
+   * [Center for the Neuroscience](https://www.cnup.pitt.edu/about)
    * [Center for the Neural Basis of Cognition](http://www.cnbc.cmu.edu/)
 * B.S. in Neuroscience, University of Pittsburgh 2012-2016
    * Summa Cum Laude, Departmental Honors
@@ -48,10 +48,11 @@ Service and Awards
 Skills
 ======
 * Programming: MATLAB, Python, R
-* Data analysis: EEG, MEG, eye tracking, pupillometry
+* Data analysis: EEG, MEG, eye tracking, pupillometry, behavioral data
 * Machine learning: Neural networks, Reinforcement learning, linear classification, regression
 * Grant Writing
-
+* Project Management
+* Scientific Presentation
 
 Publications
 ======
