@@ -1,4 +1,3 @@
-
 ---
 title: "Multiple adjoining word- and face-selective regions in ventral temporal cortex exhibit distinct dynamics"
 collection: publications
